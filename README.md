@@ -1,5 +1,6 @@
 # 🚀 Global Insight: Resilience & Risk Analysis  
-### Data-Driven Exploration of Global Stability and Socio-Economic Risks
+### Multi-Domain Data Analysis of Global Stability and Socio-Economic Risks
+
 
 ---
 
