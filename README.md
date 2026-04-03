@@ -1,14 +1,19 @@
-# 🚀 Global Insight AI: Resilience & Risk Predictor  
-### Harnessing Big Data and Machine Learning to Forecast Global Stability and Socio-Economic Risks.
+# 🚀 Global Insight: Resilience & Risk Analysis  
+### Data-Driven Exploration of Global Stability and Socio-Economic Risks
 
 ---
 
-## 🌍 About The Project
+## 🌍 About the Project
 
-This project is the final capstone developed for the Digital Egypt Pioneers Initiative (DEPI). It serves as an AI-driven analytical engine that monitors global health, economic, and environmental indicators to predict national resilience and potential instability. By correlating data from the World Bank and WHO, the system provides early warning signs for socio-economic stressors that could lead to cybersecurity vulnerabilities or humanitarian crises.
+This project was developed as part of the **Digital Egypt Pioneers Initiative (DEPI)**.  
+
+It focuses on analyzing global health, economic, and environmental indicators to understand patterns of national resilience and potential socio-economic risks.  
+
+Using datasets from the World Bank and WHO, the analysis explores relationships between key indicators and identifies countries that may be more vulnerable to instability.  
+
+The project aims to provide data-driven insights that support better decision-making and long-term strategic planning.
 
 ---
-
 ## 👥 Team Members
 
 | Name | Role | Responsibility |
