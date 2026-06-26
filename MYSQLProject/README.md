@@ -229,22 +229,55 @@ Examples of calculated metrics include:
 
 ---
 
-# 💡 Key Insights
+# 💡 Insights Uncovered by the Analysis
 
-The project enables stakeholders to:
+The analysis revealed several important patterns across countries, regions, and resilience domains:
 
-* Identify resilient countries by highlighting nations that consistently achieve high scores across economic, healthcare, environmental, and technological indicators, indicating strong overall stability and adaptability.
+### 🌍 Resilience Is Not Determined by Economic Strength Alone
 
-* Detect hidden vulnerabilities by uncovering countries that may appear stable economically but suffer from weaknesses in areas such as food security, political stability, or healthcare capacity.
+Several countries with strong economic performance did not rank among the most resilient due to weaknesses in healthcare capacity, political stability, or food security. This highlights the importance of a balanced resilience profile rather than relying solely on economic growth.
 
-* Understand regional inequalities by comparing performance across regions, revealing which areas of the world are leading in resilience and which are lagging behind due to structural challenges.
+---
 
-* Evaluate long-term resilience trends by analyzing how countries and regions have improved or declined over time, helping to identify patterns of growth, stagnation, or deterioration.
+### 🏥 Healthcare and Political Stability Are Major Drivers of Resilience
 
-* Assess food-security risks by examining dependency on food imports, undernourishment levels, and exposure to global food price fluctuations, which can signal potential crises.
+Countries with strong healthcare systems and stable governance consistently achieved higher composite resilience scores, regardless of geographic region.
 
-* Measure preparedness for future disruptions by combining multiple indicators into a Future Shock Index that reflects how well countries can withstand economic shocks, environmental changes, or global crises.
+---
 
+### 🌾 Food Security Remains a Critical Global Vulnerability
+
+Many countries showed significant dependence on food imports and were highly exposed to food price volatility, making food security one of the most influential risk factors in the resilience framework.
+
+---
+
+### 🗺️ Significant Regional Disparities Exist
+
+The analysis revealed substantial differences in resilience performance across regions. While some regions demonstrated balanced strength across multiple domains, others showed persistent structural weaknesses.
+
+---
+
+### 📈 Resilience Has Improved Over Time
+
+Comparing the 2000s, 2010s, and 2020s indicates that overall resilience levels improved globally, although progress was uneven across countries and domains.
+
+---
+
+### ⚠️ Hidden Vulnerabilities Can Exist Behind Strong Overall Scores
+
+Some countries achieved high composite scores while still exhibiting weaknesses in specific domains, suggesting that strong overall performance does not necessarily eliminate future risk exposure.
+
+---
+
+### ⚡ Future Preparedness Varies Significantly Across Countries
+
+The Future Shock Analysis showed that countries with diversified strengths across digital infrastructure, healthcare, governance, and sustainability are better positioned to absorb future global disruptions.
+
+---
+
+### 🔍 Multi-Domain Weaknesses Create Systemic Risk
+
+Countries that perform poorly across several domains simultaneously face disproportionately higher risk levels than countries with isolated weaknesses, emphasizing the interconnected nature of resilience.
 ---
 
 # 🛠️ Technologies Used
