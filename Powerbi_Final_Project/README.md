@@ -1,4 +1,4 @@
-# 🌍 Global Resilience Index
+# 🌍 Global Resilience Index (Power BI)
 
 ![Cover](Cover.png)
 
