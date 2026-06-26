@@ -278,7 +278,8 @@ The Future Shock Analysis showed that countries with diversified strengths acros
 ### 🔍 Multi-Domain Weaknesses Create Systemic Risk
 
 Countries that perform poorly across several domains simultaneously face disproportionately higher risk levels than countries with isolated weaknesses, emphasizing the interconnected nature of resilience.
----
+
+----
 
 # 🛠️ Technologies Used
 
