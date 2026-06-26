@@ -18,7 +18,7 @@ The dashboard enables decision-makers to identify resilient nations, vulnerable 
 
 ---
 
-# 🎯 Business Problem
+# 🎯 Analytical Objective
 
 Traditional economic indicators such as GDP alone cannot fully explain how resilient a country is when facing crises.
 
