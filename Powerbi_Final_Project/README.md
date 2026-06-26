@@ -334,7 +334,3 @@ Powerbi_Final_Project/
 ├── ScoreCard.png
 └── Data_Model.png
 ```
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
