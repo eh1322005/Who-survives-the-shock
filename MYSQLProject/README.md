@@ -1,4 +1,4 @@
-# 🌍 Global Resilience Analytics Project
+# 🌍 Global Resilience Analytics Project (MYSQL)
 
 > A comprehensive SQL analytics project that evaluates resilience, risk, food security, healthcare capacity, economic stability, and future preparedness across 100 countries between 2000 and 2023.
 
