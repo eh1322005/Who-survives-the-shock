@@ -51,7 +51,6 @@ Each domain captures a **critical pillar of resilience**, and together they prov
 ### 🌐 Overview
 
 
-images/overview.png
 
 Provides executive-level insights including:
 
@@ -72,7 +71,6 @@ Provides executive-level insights including:
 ### 🔍 Country Explorer
 
 
-images/country_explorer.png
 
 Allows users to:
 
@@ -114,7 +112,6 @@ Focuses on:
 ### ⚠️ Risk & Stability
 
 
-images/risk_stability.png
 
 Highlights:
 
@@ -135,7 +132,6 @@ Highlights:
 ### 🌾 Food Security
 
 
-images/food_security.png
 
 Analyzes:
 
@@ -156,7 +152,6 @@ Analyzes:
 ### ⚡ Future Shock Index
 
 
-images/future_shock_index.png
 
 Evaluates:
 
@@ -204,13 +199,21 @@ Inverse indicators are automatically reversed so that higher scores always indic
 ## 📈 Key Features
 
 ✅ Composite Resilience Score
+
 ✅ Country Ranking System
+
 ✅ Regional Benchmarking
+
 ✅ Domain Analysis
+
 ✅ Risk Assessment
+
 ✅ Food Security Monitoring
+
 ✅ Future Shock Evaluation
+
 ✅ Interactive Plotly Visualizations
+
 ✅ Streamlit Dashboard
 
 **Enhanced Value:**
