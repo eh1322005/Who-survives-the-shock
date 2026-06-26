@@ -1,4 +1,4 @@
-# 🌍 Global Resilience Index
+# 🌍 Global Resilience Index (Python)
 
 > Measuring how countries withstand economic, social, environmental, and political shocks through a comprehensive data-driven resilience framework.
 
