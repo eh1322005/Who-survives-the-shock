@@ -61,7 +61,7 @@ This project answers questions such as:
 ---
 
 # 🏗️ Data Architecture
-![Data Model](Model.png)
+![Data Model](SHCEMA.png)
 
 The project follows a dimensional modeling approach using a Star Schema.
 
