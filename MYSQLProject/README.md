@@ -61,8 +61,7 @@ This project answers questions such as:
 ---
 
 # 🏗️ Data Architecture
-![SCHEMA](SHCEMA.png)
-
+![SCHEMA](SCHEMA.png)
 The project follows a dimensional modeling approach using a Star Schema.
 
 ### Fact Tables
