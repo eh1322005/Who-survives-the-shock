@@ -27,7 +27,7 @@ By integrating data from the **World Bank**, **FAO**, and other global developme
 
 ### Supervisor / Instructor
 
-**Amal Mahmoud**
+**DR\ Amal Mahmoud**
 
 ---
 
@@ -152,6 +152,7 @@ Unlike traditional analytics projects that rely on a single technology, this pro
 * Recommendations
 
 Each implementation was developed independently to demonstrate how the same business problem can be solved using different analytics technologies while achieving the same objective: measuring global resilience and identifying vulnerability to future shocks.
+
 ---
 
 # 🗂️ Data Sources
