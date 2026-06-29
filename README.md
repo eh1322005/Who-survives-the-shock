@@ -18,12 +18,12 @@ By integrating data from the **World Bank**, **FAO**, and other global developme
 
 | Name             | Role         | Responsibility                    |
 | ---------------- | ------------ | --------------------------------- |
-| Eslam Hassan     | Team Lead    | Project Management & Coordination |
-| Omar Mahmoud     | Data Analyst | Research & Data Analysis          |
-| Ann Osama        | Data Analyst | Research & Data Analysis          |
-| Sara Mohamed     | Data Analyst | Research & Data Analysis          |
-| Habiba Ahmed     | Data Analyst | Research & Data Analysis          |
+| Eslam Hassan     | Team Lead    | Project Management & Data Analysis|
 | Mostafa ELrkhawy | Data Analyst | Research & Data Analysis          |
+| Habiba Ahmed     | Data Analyst | Research & Data Analysis          |
+| Sara Mohamed     | Data Analyst | Research & Data Analysis          |
+| Ann Osama        | Data Analyst | Research & Data Analysis          |
+| Omar Mahmoud     | Data Analyst | Research & Data Analysis          | 
 
 ### Supervisor / Instructor
 
