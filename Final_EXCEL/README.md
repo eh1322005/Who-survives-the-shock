@@ -292,7 +292,7 @@ Examines food affordability, nutritional challenges, and vulnerability to food c
 
 ## 🌐 Digital Infrastructure Dashboard
 
-![Digital Infrastructure](DIGITALINFRASTRUCTURE.jpeg)
+![Digital Infrastructure](Final_EXCEL/DIGITAL INFRASTRUCTURE.jpeg)
 
 ### Analyzes
 
