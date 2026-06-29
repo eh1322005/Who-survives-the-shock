@@ -292,7 +292,7 @@ Examines food affordability, nutritional challenges, and vulnerability to food c
 
 ## 🌐 Digital Infrastructure Dashboard
 
-![Digital Infrastructure](Final_EXCEL/DIGITAL INFRASTRUCTURE.jpeg)
+![Digital Infrastructure](DIGITAL_INFRASTRUCTURE.jpeg)
 
 ### Analyzes
 
@@ -309,7 +309,7 @@ Measures global digital readiness and highlights the digital divide between regi
 
 ## ⚡ Energy & Climate Dashboard
 
-![Energy & Climate](ENERGYCLIMATE.jpeg)
+![Energy & Climate](ENERGY_CLIMATE.jpeg)
 
 ### Analyzes
 
@@ -427,3 +427,39 @@ The final solution delivers:
 ✅ Star Schema data model optimized for analytics
 
 ---
+
+# 📈 Key Results & Recommendations
+
+## Key Results
+
+- Built a multi-domain resilience scoring framework covering 100 countries.
+- Integrated economic, food, healthcare, energy, climate, digital, and political indicators into a unified analytical model.
+- Developed interactive dashboards for regional and country-level analysis.
+- Identified significant structural resilience gaps across regions.
+- Generated business and statistical insights supported by normalized indicators and trend analysis.
+
+## Recommendations
+
+### 🌐 Accelerate Digital Inclusion
+
+Regions with low internet penetration and broadband density should prioritize digital infrastructure investments to reduce economic vulnerability and improve resilience.
+
+### 🏥 Strengthen Healthcare Capacity
+
+Countries with persistent healthcare shortages should increase healthcare expenditure, expand medical workforce capacity, and improve access to essential health services.
+
+### 🍽️ Reduce Food Import Dependency
+
+Highly import-dependent countries should diversify food supply chains and strengthen domestic agricultural production to improve food security.
+
+### ⚡ Expand Energy Accessibility
+
+Improving electricity access and investing in renewable energy can simultaneously enhance economic resilience, reduce poverty, and support environmental sustainability.
+
+### ⚖️ Improve Governance & Stability
+
+Political stability emerged as a leading resilience factor. Strengthening institutions, transparency, and governance frameworks can reduce long-term systemic risk.
+
+### 📊 Adopt Data-Driven Policymaking
+
+Governments and development organizations should leverage integrated resilience monitoring frameworks to identify emerging risks early and allocate resources more effectively.
