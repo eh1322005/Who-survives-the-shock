@@ -42,7 +42,7 @@ This dashboard provides a high-level assessment of global resilience and stabili
 
 ### Dashboard Preview
 
-![Dashboard 1](images/dashboard1.png)
+![Dashboard 1](DASHBOARD1.jpeg)
 
 ### Key Business Questions
 
@@ -73,7 +73,7 @@ This dashboard focuses on identifying countries and regions exposed to higher le
 
 ### Dashboard Preview
 
-![Dashboard 2](images/dashboard2.png)
+![Dashboard 2](DASHBOARD.jpeg)
 
 ### Key Business Questions
 
