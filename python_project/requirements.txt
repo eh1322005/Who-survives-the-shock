@@ -1,0 +1,22 @@
+# Core
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+openpyxl>=3.1.0
+
+# Machine Learning
+scikit-learn>=1.4.0
+joblib>=1.3.0
+
+# Optional — gradient boosting libraries (notebook and app skip these gracefully if absent)
+xgboost>=2.0.0
+lightgbm>=4.0.0
+catboost>=1.2.0
+
+# Optional — explainability
+shap>=0.44.0
+
+# Deployment
+streamlit>=1.32.0
+plotly>=5.18.0

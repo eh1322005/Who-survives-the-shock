@@ -1,0 +1,35 @@
+{
+  "model_version": "20260630_051942",
+  "model_name": "Ridge",
+  "numeric_features": [
+    "Digital Infrastructure",
+    "Economic Fragility",
+    "Food Security",
+    "Healthcare",
+    "Political Stability",
+    "Climate & Energy"
+  ],
+  "categorical_features": [
+    "Region"
+  ],
+  "target": "Composite Score",
+  "test_r2": 0.9947,
+  "regions": [
+    "Africa",
+    "Central America & Caribbean",
+    "Central Asia",
+    "East Asia",
+    "Europe",
+    "Middle East",
+    "North America",
+    "Oceania",
+    "South America",
+    "South Asia"
+  ],
+  "feature_value_range": [
+    0.0,
+    1.0
+  ],
+  "training_rows": 78,
+  "created_at": "2026-06-30T05:19:42.453201"
+}
