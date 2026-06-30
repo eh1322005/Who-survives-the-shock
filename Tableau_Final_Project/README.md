@@ -73,7 +73,7 @@ This dashboard focuses on identifying countries and regions exposed to higher le
 
 ### Dashboard Preview
 
-![Dashboard 2](DASHBOARD.jpeg)
+![Dashboard 2](DASHBOARD2.jpeg)
 
 ### Key Business Questions
 
