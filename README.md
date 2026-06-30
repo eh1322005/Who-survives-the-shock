@@ -100,6 +100,8 @@ This project provides a data-driven answer through a framework that evaluates re
 
 Unlike traditional analytics projects that rely on a single technology, this project was fully implemented using multiple tools, with each implementation independently covering the complete analytics lifecycle from raw data to final insights and recommendations.
 
+| Implementation | Timeline | Scope |
+|---------------|----------|--------|
 | 📊 Excel | Week 1 | End-to-End Analytics Solution |
 | 🗄️ SQL Data Warehouse | Week 2 | End-to-End Analytics Solution |
 | 🐍 Python Analytics | Week 3 | End-to-End Analytics Solution |
