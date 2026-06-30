@@ -43,6 +43,10 @@ By integrating data from the **World Bank**, **FAO**, and other global developme
 
 ✅ Multi-Domain Resilience Framework
 
+✅ Machine Learning Prediction Model
+
+✅ Predictive Analytics Framework
+
 ✅ Advanced Data Cleaning & Transformation
 
 ✅ Star Schema Data Model
@@ -104,8 +108,7 @@ Unlike traditional analytics projects that rely on a single technology, this pro
 |---------------|----------|--------|
 | 📊 Excel | Week 1 | End-to-End Analytics Solution |
 | 🗄️ SQL Data Warehouse | Week 2 | End-to-End Analytics Solution |
-| 🐍 Python Analytics | Week 3 | End-to-End Analytics Solution |
-| 📈 Power BI Dashboard | Week 4 | End-to-End Analytics Solution |
+| 🐍 Python Analytics & Machine Learning | Week 3 | Analytics + Predictive Analytics Solution || 📈 Power BI Dashboard | Week 4 | End-to-End Analytics Solution |
 | 📊 Tableau Storytelling | Week 5 | Interactive Analytics & Storytelling Solution |
 
 ### 📊 Excel Implementation — Week 1
@@ -137,7 +140,15 @@ Unlike traditional analytics projects that rely on a single technology, this pro
 * Statistical Analysis
 * Trend Analysis
 * Correlation Analysis
-* Visualization
+* Data Visualization
+* KPI Development
+* Feature Engineering
+* Machine Learning Modeling
+* Model Evaluation & Comparison
+* Hyperparameter Tuning
+* Feature Importance Analysis
+* Composite Score Prediction
+* Streamlit ML Application
 * Insight Generation
 * Recommendations
 
@@ -439,6 +450,12 @@ The final solution delivers:
 ✅ Interactive Storytelling Dashboards
 
 ✅ Global Risk & Vulnerability Visualization
+
+✅ Machine Learning Modeling
+
+✅ Composite Resilience Score Prediction
+
+✅ Predictive Analytics Solution
 
 ✅ Country Benchmarking
 
