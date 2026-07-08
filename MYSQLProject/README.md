@@ -295,7 +295,7 @@ Countries that perform poorly across several domains simultaneously face disprop
 
 ---
 
-# 📂 Repository Structure
+# 📂 Module Structure
 
 ```text
 Global-Resilience-Analytics/
