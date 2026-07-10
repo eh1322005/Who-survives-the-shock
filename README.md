@@ -126,7 +126,7 @@ Unlike traditional analytics projects that rely on a single technology, this pro
 
 * Data Cleaning
 * Data Modeling
-* Star Schema Design
+* Galaxy Schema Design
 * Data Warehousing
 * Analytical Queries
 * Resilience Scoring
@@ -208,7 +208,7 @@ Each implementation was developed independently to demonstrate how the same busi
 
 # 🏗️ Data Model
 
-The project follows a dimensional modeling approach using a Star Schema.
+The project follows a dimensional modeling approach using a Galaxy Schema.
 
 ## Schema
 
