@@ -100,7 +100,7 @@ Inverse indicators were reversed so that higher values consistently represent st
 
 ![Data Model](Data_Model.png)
 
-The project follows a Star Schema optimized for analytical reporting and DAX calculations.
+The project follows a Galaxy Schema optimized for analytical reporting and DAX calculations.
 
 ### Fact Tables
 
