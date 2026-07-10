@@ -33,33 +33,21 @@ By integrating data from the **World Bank**, **FAO**, and other global developme
 
 # 🏆 Project Highlights
 
-✅ 100 Countries Analyzed
-
-✅ 24 Years of Historical Data (2000–2023)
-
-✅ 15+ Global Indicators
-
-✅ Multiple International Data Sources
-
-✅ Multi-Domain Resilience Framework
-
-✅ Machine Learning Prediction Model
-
-✅ Predictive Analytics Framework
-
-✅ Advanced Data Cleaning & Transformation
-
-✅ Star Schema Data Model
-
-✅ Statistical & Business Analysis
-
-✅ Interactive Dashboards
-
-✅ Risk Assessment Framework
-
-✅ Future Shock Evaluation
-
-✅ Actionable Recommendations
+- 🌍 100 Officially Tracked Countries
+- 📅 24 Years of Historical Data (2000–2023)
+- 📊 15+ International Development Indicators
+- 🏛 Six Strategic Resilience Domains
+- 🌐 Multiple Trusted Global Data Sources
+- 🧮 Composite Global Resilience Index
+- 🧹 Advanced Data Cleaning & Feature Engineering
+- 📈 Comprehensive Exploratory Data Analysis (EDA)
+- 📊 Interactive Multi-Page Streamlit Dashboard
+- 🤖 Machine Learning-Based Estimated Country Explorer
+- 🚀 2030 Resilience Forecasting Engine
+- 🎯 Optimistic, Base & Pessimistic Scenarios
+- ⚠️ Country Risk Assessment & Tier Classification
+- 🌎 Regional & Global Performance Benchmarking
+- 💡 Executive Insights & Strategic Recommendations
 
 ---
 
@@ -135,22 +123,27 @@ Unlike traditional analytics projects that rely on a single technology, this pro
 
 ### 🐍 Python Implementation — Week 3
 
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Statistical Analysis
-* Trend Analysis
-* Correlation Analysis
-* Data Visualization
-* KPI Development
-* Feature Engineering
-* Machine Learning Modeling
-* Model Evaluation & Comparison
-* Hyperparameter Tuning
-* Feature Importance Analysis
-* Composite Score Prediction
-* Streamlit ML Application
-* Insight Generation
-* Recommendations
+- Data Cleaning & Preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
+- Trend & Time-Series Analysis
+- Correlation Analysis
+- Interactive Data Visualization
+- KPI Development
+- Feature Engineering
+- Composite Resilience Index Construction
+- Machine Learning Model Development
+- Model Evaluation & Performance Comparison
+- Hyperparameter Tuning
+- Feature Importance Analysis
+- Estimated Country Prediction
+- Composite & Domain Score Prediction
+- Country Tier & Risk Level Classification
+- 2030 Resilience Forecasting
+- Multi-Scenario Forecasting (Optimistic, Base & Pessimistic)
+- Streamlit Interactive Dashboard Development
+- Automated Insight Generation
+- Executive Recommendations
 
 ### 📈 Power BI Implementation — Week 4
 
@@ -392,12 +385,15 @@ Generated:
 
 # 📈 Key Results
 
-* Built a resilience framework covering 100 countries.
-* Integrated economic, healthcare, food-security, climate, energy, digital, and governance indicators.
-* Developed complete implementations using Excel, SQL, Python, and Power BI.
-* Identified structural resilience gaps across regions.
-* Generated analytical, statistical, and business insights.
-* Created an interactive decision-support framework for resilience assessment.
+* Built a comprehensive Global Resilience Framework covering 100 countries.
+* Integrated economic, healthcare, food security, climate & energy, digital infrastructure, and political stability indicators into a unified resilience index.
+* Developed complete analytics solutions using Excel, SQL, Python, Power BI, and Tableau.
+* Performed exploratory data analysis (EDA), statistical analysis, and interactive data storytelling using Python.
+* Built Machine Learning models to estimate resilience scores for countries with incomplete data.
+* Forecasted domain and composite resilience scores through 2030 using predictive analytics.
+* Identified structural resilience gaps, regional disparities, and country-level vulnerabilities.
+* Generated actionable analytical, statistical, and business insights to support decision-making.
+* Created an interactive, multi-platform decision-support system for resilience assessment and future shock evaluation.
 
 ---
 
@@ -428,45 +424,44 @@ Strengthen institutions and governance frameworks.
 Use integrated resilience monitoring systems to identify emerging risks early.
 
 ---
-
 # 🚀 Project Outcome
 
 The final solution delivers:
 
-✅ Multi-Domain Resilience Framework
+✅ End-to-End Data Analytics Solution
 
-✅ End-to-End Analytics Solution
+✅ Multi-Source Data Integration
 
-✅ Excel Implementation
+✅ Advanced Data Cleaning & Transformation
 
-✅ SQL Implementation
+✅ Star Schema Data Warehouse Design
 
-✅ Python Implementation
+✅ Excel Analytics & Interactive Dashboards
 
-✅ Power BI Implementation
+✅ SQL-Based Data Modeling & Analysis
 
-✅ Tableau Implementation
+✅ Python-Based EDA & Statistical Analysis
 
-✅ Interactive Storytelling Dashboards
+✅ Power BI Business Intelligence Dashboard
 
-✅ Global Risk & Vulnerability Visualization
+✅ Tableau Data Visualization & Storytelling
 
-✅ Machine Learning Modeling
+✅ Composite Global Resilience Index
 
-✅ Composite Resilience Score Prediction
+✅ Six-Domain Resilience Assessment Framework
 
-✅ Predictive Analytics Solution
+✅ Interactive Multi-Platform Dashboards
 
-✅ Country Benchmarking
+✅ Country & Regional Benchmarking
 
-✅ Regional Analysis
+✅ Global Risk & Vulnerability Assessment
 
-✅ Risk Assessment
+✅ Machine Learning-Based Estimated Country Analysis
 
-✅ Future Shock Evaluation
+✅ Composite & Domain Score Prediction
 
-✅ Statistical Insights
+✅ Future Resilience Forecasting (2030)
 
-✅ Business Recommendations
+✅ Multi-Scenario Forecasting (Optimistic, Base & Pessimistic)
 
-✅ Interactive Dashboards
+✅ Executive Insights & Data-Driven Recommendations
