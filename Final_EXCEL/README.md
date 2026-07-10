@@ -51,7 +51,7 @@ This project was designed to answer one question:
 
 # 🏗️ Data Model
 
-The project follows a Star Schema architecture.
+The project follows a Galaxy Schema architecture.
 
 ## Schema
 
