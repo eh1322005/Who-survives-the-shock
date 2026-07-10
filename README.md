@@ -96,7 +96,8 @@ Unlike traditional analytics projects that rely on a single technology, this pro
 |---------------|----------|--------|
 | 📊 Excel | Week 1 | End-to-End Analytics Solution |
 | 🗄️ SQL Data Warehouse | Week 2 | End-to-End Analytics Solution |
-| 🐍 Python Analytics & Machine Learning | Week 3 | Analytics + Predictive Analytics Solution || 📈 Power BI Dashboard | Week 4 | End-to-End Analytics Solution |
+| 🐍 Python Analytics & Machine Learning | Week 3 | Analytics + Predictive Analytics Solution |
+| 📈 Power BI Dashboard | Week 4 | End-to-End Analytics Solution |
 | 📊 Tableau Storytelling | Week 5 | Interactive Analytics & Storytelling Solution |
 
 ### 📊 Excel Implementation — Week 1
