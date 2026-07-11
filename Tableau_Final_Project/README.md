@@ -1,237 +1,243 @@
-# 📊 Tableau Module | Global Crisis & Resilience Analysis Framework
+# 🌍 Global Crisis & Resilience Analysis Framework
 
-## Overview
-
-This Tableau module is part of the larger **Global Crisis & Resilience Analysis Framework** project.
-
-The objective of this module is to transform the prepared analytical dataset into interactive dashboards that enable users to explore global resilience, crisis vulnerability, economic stability, healthcare capacity, digital infrastructure, governance, and food security indicators.
-
-The dashboards were designed using a storytelling approach, allowing decision-makers to understand global resilience from multiple perspectives through interactive visual analytics.
+> An interactive Tableau analytics platform for evaluating global resilience, crisis vulnerability, economic stability, healthcare readiness, digital infrastructure, governance, and food security across more than 180 countries.
 
 ---
 
-# 🎯 Module Objectives
+## 📖 Project Overview
 
-- Visualize global resilience and crisis indicators.
-- Compare resilience across countries and regions.
+The **Global Crisis & Resilience Analysis Framework** transforms complex global indicators into a unified interactive analytics platform.
+
+By combining multiple international datasets into a standardized resilience framework, the project enables policymakers, analysts, and researchers to identify vulnerable countries, monitor resilience trends, and explore the relationships between economic, healthcare, governance, digital, and food security indicators.
+
+The Tableau dashboards provide an end-to-end storytelling experience, moving from a global overview to deep-dive analyses across different resilience dimensions.
+
+---
+
+# 🚀 Dashboard Navigation
+
+| Dashboard | Focus |
+|-----------|------|
+| 🌍 Dashboard 1 | Global Overview |
+| ⚠ Dashboard 2 | Risk & Vulnerability |
+| 🌾 Dashboard 3 | Food Security & Shock Analysis |
+| 📈 Dashboard 4 | Resilience Performance |
+| 🏛 Dashboard 5 | Governance & Domain Insights |
+
+---
+
+# 🌍 Dashboard 1 — Global Overview
+
+## Purpose
+
+Provides a strategic overview of worldwide resilience and highlights the strongest and weakest regions using composite resilience indicators.
+
+### Key Insights
+
+- Identify the world's most resilient country.
 - Detect countries facing critical conditions.
-- Analyze economic, healthcare, governance, and food security risks.
-- Explore digital infrastructure inequalities.
-- Understand long-term resilience trends.
-- Support interactive exploration using filters and drill-down analysis.
+- Compare resilience across global regions.
+- Explore the relationship between GDP Growth and Inflation.
 
----
+### Dashboard Includes
 
-# Dashboard 1: Global Overview
+✅ Executive KPI Cards
 
-This dashboard provides a high-level assessment of global resilience and stability.
+✅ Regional Stability Analysis
 
-## Key KPIs
+✅ Global Composite Score Map
 
-- Resilience Champion
-- Critical Crisis Zone
-- Global Inflation Rate
-- Global GDP Growth
-
-## Visualizations
-
-- Regional Distribution Analysis
-- Average Regional Stability Score
-- Global Composite Score Map
-- GDP Growth vs. Inflation Scatter Plot
+✅ GDP Growth vs Inflation Analysis
 
 ### Dashboard Preview
 
 ![Dashboard 1](DASHBOARD1.jpeg)
 
-### Key Business Questions
-
-- Which countries demonstrate the highest resilience?
-- Which regions show stronger stability levels?
-- How does economic growth relate to inflation risk?
-- What geographical patterns exist in resilience scores?
-
 ---
 
-# Dashboard 2: Risk & Vulnerability Analysis
+# ⚠ Dashboard 2 — Risk & Vulnerability Analysis
 
-This dashboard focuses on identifying countries and regions exposed to higher levels of risk.
+## Purpose
 
-## Key KPIs
+Analyzes countries experiencing elevated crisis exposure through healthcare, infrastructure, and food security indicators.
 
-- Current Global Risk Status
-- Countries in Critical Conditions
-- Electricity Access Rate
-- Internet Penetration Rate
+### Key Insights
 
-## Visualizations
+- Current Global Risk Level
+- Countries in Critical Condition
+- Digital Infrastructure Gap
+- Medical Capacity vs Stability
+- Global Undernourishment Distribution
 
-- Stability vs. Medical Capacity Trend
-- Regional Risk Distribution
-- Digital Divide Analysis
-- Global Undernourishment Heatmap
+### Dashboard Includes
+
+✅ Risk Status KPIs
+
+✅ Stability vs Medical Capacity
+
+✅ Digital Divide Analysis
+
+✅ Global Heatmap
 
 ### Dashboard Preview
 
 ![Dashboard 2](DASHBOARD2.jpeg)
 
-### Key Business Questions
-
-- Which countries are currently in critical conditions?
-- How does healthcare capacity influence stability?
-- Which regions experience greater digital inequality?
-- Where are food security risks concentrated?
-
 ---
 
-# Dashboard 3: Food Security & Shock Analysis
+# 🌾 Dashboard 3 — Food Security & Shock Analysis
 
-This dashboard explores the relationship between food prices, healthcare limitations, and resilience under global shocks.
+## Purpose
 
-## Key KPIs
+Explores how food price volatility impacts resilience and highlights countries suffering from nutritional and healthcare challenges.
 
+### Key Insights
+
+- Food Price Shock
 - Global Undernourishment
 - Medical Deficit
-- Most Volatile Nation
-- Global Shock Trend
+- Essential Commodity Volatility
 
-## Visualizations
+### Dashboard Includes
 
-- Food Price Spike Analysis
-- Essential Commodities Volatility
-- Country Resilience Treemap
-- Food Price Trends
+✅ Food Price Analysis
+
+✅ Commodity Trend Comparison
+
+✅ Country Resilience Treemap
 
 ### Dashboard Preview
 
 ![Dashboard 3](DASHBOARD3.jpeg)
 
-### Key Business Questions
-
-- Which food categories experienced the largest price increases?
-- Which countries are most affected by undernourishment?
-- How do food price shocks influence resilience?
-- Which countries show the highest overall vulnerability?
-
 ---
 
-# Dashboard 4: Resilience Performance Monitoring
+# 📈 Dashboard 4 — Resilience Performance Monitoring
 
-This dashboard tracks resilience performance over time and compares countries and regions.
+## Purpose
 
-## Key KPIs
+Tracks resilience evolution across years while comparing country and regional performance.
 
-- Global Price Shock
-- Global Undernourishment
-- Healthcare Vulnerability
-- Global Medical Capacity
+### Key Insights
 
-## Visualizations
+- Global Resilience Trend
+- Regional Performance Comparison
+- Top Performing Countries
+- Lowest Performing Countries
 
-- Resilience Score Over Time
-- Distribution of Resilience by Region
-- Top 10 Resilient Countries
-- Bottom 10 Resilient Countries
+### Dashboard Includes
+
+✅ Time Series Analysis
+
+✅ Regional Distribution
+
+✅ Top 10 Ranking
+
+✅ Bottom 10 Ranking
 
 ### Dashboard Preview
 
 ![Dashboard 4](DASHBOARD4.jpeg)
 
-### Key Business Questions
-
-- How has global resilience changed over time?
-- Which regions consistently outperform others?
-- Which countries lead the global resilience ranking?
-- Which countries require the greatest policy attention?
-
 ---
 
-# Dashboard 5: Governance & Domain Insights
+# 🏛 Dashboard 5 — Governance & Domain Insights
 
-This dashboard investigates how governance, food security, and domain performance contribute to national resilience.
+## Purpose
 
-## Key KPIs
+Examines how governance quality, food security, and domain performance contribute to overall resilience.
 
-- Food Price Volatility
-- Sharpest Decline
-- Stability Gap
-- Global Domain Volatility
+### Key Insights
 
-## Visualizations
+- Political Stability vs Resilience
+- Food Prices vs Undernourishment
+- Global Country Ranking
+- Regional Domain Performance
 
-- Global Resilience Ranking
-- Food Prices vs. Undernourishment
-- Political Stability vs. Resilience
-- Domain Performance Treemap
+### Dashboard Includes
+
+✅ Country Ranking
+
+✅ Correlation Analysis
+
+✅ Domain Treemap
 
 ### Dashboard Preview
 
 ![Dashboard 5](DASHBOARD5.jpeg)
 
-### Key Business Questions
+---
 
-- Does political stability improve national resilience?
-- How are food prices associated with undernourishment?
-- Which countries rank highest in resilience?
-- Which regions perform better across resilience domains?
+# 📊 Analytical Domains
+
+The resilience framework combines indicators from six major domains.
+
+| Domain | Sample Indicators |
+|---------|------------------|
+| 📈 Economic | GDP Growth, Inflation |
+| 🏥 Healthcare | Medical Capacity, Physicians, Hospitals |
+| 🌐 Digital Infrastructure | Internet Users, Broadband, Electricity |
+| 🏛 Governance | Political Stability |
+| 🌾 Food Security | Food Prices, Undernourishment |
+| 🌍 Composite Resilience | Domain Scores, Overall Resilience Score |
 
 ---
 
-# 📂 Dataset Domains
+# 🎯 Interactive Features
 
-The Tableau dashboards analyze indicators across multiple domains.
-
-## Economic Domain
-
-- GDP Growth
-- Inflation
-
-## Healthcare Domain
-
-- Medical Capacity
-- Health Expenditure
-- Physicians
-- Hospital Capacity
-
-## Digital Infrastructure Domain
-
-- Internet Users
-- Broadband Subscriptions
-- Electricity Access
-
-## Governance Domain
-
-- Political Stability
-
-## Food Security Domain
-
-- Undernourishment
-- Food Price Index
-- Food Import Dependency
-
-## Composite Resilience Domain
-
-- Normalized Indicator Scores
-- Domain Scores
-- Composite Resilience Score
-- Risk Classification
+- 🌍 Global Map Exploration
+- 🔍 Country-Level Drill Down
+- 🌎 Region Comparison
+- 📅 Time Slider (2000–2023)
+- 🎛 Interactive Filters
+- 📈 Cross Dashboard Storytelling
+- 📊 Dynamic KPI Cards
 
 ---
 
-# 🛠 Tools Used
+# 💡 Business Value
 
-- Tableau Public
-  
+The dashboards support strategic decision-making by enabling users to:
+
+- Identify countries at high risk.
+- Compare resilience across regions.
+- Detect long-term resilience trends.
+- Monitor economic and healthcare vulnerability.
+- Understand food security challenges.
+- Evaluate governance effectiveness.
+- Support policy planning with interactive analytics.
+
 ---
 
-# 📈 Business Value
+# 🛠 Technology Stack
 
-The dashboards help stakeholders:
+| Tool | Purpose |
+|------|----------|
+| Tableau Public | Dashboard Development |
 
-- Monitor global resilience trends.
-- Identify vulnerable countries and regions.
-- Evaluate economic, healthcare, governance, and food security risks.
-- Compare regional resilience performance.
-- Detect long-term resilience changes.
-- Support evidence-based policy and strategic decision-making.
-- Explore global resilience through interactive visual storytelling.
+---
+
+# 📷 Dashboard Gallery
+
+| Dashboard | Preview |
+|-----------|---------|
+| Global Overview | ![](DASHBOARD1.jpeg) |
+| Risk & Vulnerability | ![](DASHBOARD2.jpeg) |
+| Food Security | ![](DASHBOARD3.jpeg) |
+| Resilience Monitoring | ![](DASHBOARD4.jpeg) |
+| Governance Insights | ![](DASHBOARD5.jpeg) |
+
+---
+
+# ⭐ Project Highlights
+
+- 5 Interactive Dashboards
+- 180+ Countries
+- 20+ Global Indicators
+- Multi-Domain Resilience Framework
+- Interactive Storytelling
+- Executive KPI Cards
+- Regional Comparison
+- Dynamic Filtering
+- Geospatial Analytics
+- Correlation Analysis
