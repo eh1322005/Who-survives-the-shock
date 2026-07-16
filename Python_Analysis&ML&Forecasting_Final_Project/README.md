@@ -48,6 +48,7 @@ The index is built from six strategic domains:
 
 # 📊 Dashboard
 
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-brightgreen?style=for-the-badge)]([https://your-app-name.streamlit.app](https://shock-analytics.streamlit.app/))
 ---
 
 # 🌍 Global Overview
