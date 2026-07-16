@@ -14,7 +14,7 @@ The project combines:
 - Data Cleaning & Preparation
 - Exploratory Data Analysis (EDA)
 - Composite Index Construction
-- Interactive Streamlit Dashboard
+- Interactive Streamlit Dashboard (Live APP)
 - Machine Learning Estimation
 - 2030 Forecasting
 - Scenario Analysis
