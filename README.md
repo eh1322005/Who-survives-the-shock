@@ -435,7 +435,7 @@ The final solution delivers:
 
 ✅ Advanced Data Cleaning & Transformation
 
-✅ Star Schema Data Warehouse Design
+✅ Galaxy Schema Data Warehouse Design
 
 ✅ Excel Analytics & Interactive Dashboards
 
