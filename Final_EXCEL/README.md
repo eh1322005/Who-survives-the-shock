@@ -424,7 +424,7 @@ The final solution delivers:
 
 ✅ Longitudinal analysis covering 2000–2023
 
-✅ Star Schema data model optimized for analytics
+✅ Galaxy Schema data model optimized for analytics
 
 ---
 
